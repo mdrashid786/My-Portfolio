@@ -16,7 +16,6 @@ public class GetInTouch {
 	
 	@NotBlank(message = "This field can't be blank")
 	private String UserName;
-	//rashid
 	@NotBlank(message = "This field can't be blank")
 	private String userEmail;
 	
