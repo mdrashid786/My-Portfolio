@@ -1,0 +1,6 @@
+com\example\MyPortfolio\beans\GetInTouch.class
+com\example\MyPortfolio\controller\demoController.class
+com\example\MyPortfolio\MyPortfolioApplication.class
+com\example\MyPortfolio\repository\GetInTouchRepository.class
+com\example\MyPortfolio\service\GetInTouchService.class
+com\example\MyPortfolio\controller\GetInTouchController.class
