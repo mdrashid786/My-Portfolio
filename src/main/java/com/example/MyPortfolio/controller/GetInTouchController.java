@@ -45,7 +45,7 @@ public class GetInTouchController {
 		}
 		else {
 			getInTouchService.saveGetInTouch(getInTouch);
-			return "redirect:blog-dark";
+			return "redirect:/";
 		}
 	}
 
